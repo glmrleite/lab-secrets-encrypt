@@ -1,4 +1,7 @@
-name: CI
+#Lab feito com base no treinamento de Github Actions da Udemy.
+#Precisa encriptar o arquivo e subir para o repositorio.
+#Fonte: https://docs.github.com/en/actions/security-guides/encrypted-secrets
+name: Lab Encrypt 
 on: push
 
 jobs:
